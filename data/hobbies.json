@@ -1,0 +1,15 @@
+{
+  "title": "Hobbies",
+  "icon": "bi bi-chat-heart",
+  "list": [
+    {
+      "hobby": "🎮 Video games"
+    },
+    {
+      "hobby": "🌏 Learning languages"
+    },
+    {
+      "hobby": "🍴 Trying new foods"
+    }
+  ]
+}

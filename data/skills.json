@@ -1,0 +1,27 @@
+{
+  "title": "Languages",
+  "panelId": "skill-panel",
+  "icon": "bi bi-translate",
+  "list": [
+    {
+      "skill": "English",
+      "skillrating": 100
+    },
+    {
+      "skill": "Cambodian (Khmer)",
+      "skillrating": 80
+    },
+    {
+      "skill": "Spanish",
+      "skillrating": 70
+    },
+    {
+      "skill": "Japanese",
+      "skillrating": 50
+    },
+    {
+      "skill": "Korean",
+      "skillrating": 10
+    }
+  ]
+}

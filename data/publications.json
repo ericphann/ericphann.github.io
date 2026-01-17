@@ -1,0 +1,65 @@
+{
+  "title": "Research",
+  "icon": "bi bi-book",
+  "format": ["date", "authors", "title", "journal"],
+  "delimiter": "; ",
+  "types": ["Journal Articles", "Linguistics Papers"],
+  "list": [
+    {
+      "title": "[*Separating Features From Functionality in Vaccination Apps: Computational Analysis*](https://doi.org/10.2196/36818)",
+      "authors": "George Shaw Jr, Devaki Nadkarni, Eric Phann, et al.",
+      "date": "2022",
+      "journal": "JMIR Formative Research 6 (10) e36818",
+      "type": "Journal Articles"
+    },
+    {
+      "title": "[*La casa de las flores: a case study of Queer Mexican representation in millennial telenovelas*](http://hdl.handle.net/20.500.13093/work:1272)",
+      "authors": "Eric Phann",
+      "date": "2023",
+      "journal": "Niner Commons, Spanish Honors Thesis",
+      "type": "Journal Articles"
+    },
+    {
+      "title": "*Latinx y latine: exploración del lenguaje inclusivo, la latinidad y la resistencia queer y trans*",
+      "authors": "Eric Phann",
+      "date": "2025",
+      "journal": "SPAN 6001: Ideología Lingüística en Áreas Hispanohablantes (Dra. Concepción Godev)",
+      "type": "Linguistics Papers"
+    },
+    {
+      "title": "*Approaches to machine translation for low-resource languages*",
+      "authors": "Eric Phann",
+      "date": "2025",
+      "journal": "TRAN 6000: Machine Translation & Artificial Intelligence (Dr. Jeffrey Killman)",
+      "type": "Linguistics Papers"
+    },
+    {
+      "title": "*Linguistic inequality in large language models (LLMs)*",
+      "authors": "Eric Phann",
+      "date": "2025",
+      "journal": "ENGL 6127: Seminar in Language, Culture, and Society (Dr. Pilar Blitvich)",
+      "type": "Linguistics Papers"
+    },
+    {
+      "title": "*Digital immersion: Exploring language learning and video games*",
+      "authors": "Eric Phann",
+      "date": "2024",
+      "journal": "ENGL 6163: Understanding Language Learning / Mind, Identity, and the Sociocultural World (Dr. Elizabeth Miller)",
+      "type": "Linguistics Papers"
+    },
+    {
+      "title": "*Cambodian heritage children's literature*",
+      "authors": "Eric Phann",
+      "date": "2023",
+      "journal": "ENGL 5075: Cognitive Linguistics of Children's Literature (Dr. Ralf Thiede)",
+      "type": "Linguistics Papers"
+    },
+    {
+      "title": "*Arca and queer latinx futurisms*",
+      "authors": "Eric Phann",
+      "date": "2023",
+      "journal": "LATM 4350: Queer & Trans Latinx Studies (Dr. Andrea Pitts)",
+      "type": "Linguistics Papers"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "title": "Projects",
+  "icon": "bi bi-kanban",
+  "list": [
+    {
+      "title": "CharlotteEatz",
+      "url": "https://github.com/dsba6010-llm-applications/AgenticRAG-CharlotteEatz",
+      "description": "A virtual assistant / chatbot prototype using an agentic RAG architecture to simplify dining."
+    },
+    {
+      "title": "Voice Sentiment Analysis",
+      "url": "https://github.com/ericphann/voice-sentiment-analysis/tree/main",
+      "description": "An experiment to evaluate various approaches to voice sentiment classification."
+    },
+    {
+      "title": "Video Game Super-Resolution",
+      "url": "https://github.com/ericphann/video-game-super-resolution",
+      "description": "Deep learning approaches to super-resolution upscaling for video game images."
+    },
+    {
+      "title": "Access Recommendation Model",
+      "url": "#",
+      "description": "Graph neural network (GNN) architecture to improve access provisioning and identity governance."
+    },
+    {
+      "title": "eCFR Title 12",
+      "url": "https://github.com/ericphann/eCFR-title12_NER/tree/main",
+      "description": "Fine-tuned name-entity recognition (NER) models for dense banking and regulation texts."
+    },
+    {
+      "title": "Recipe Relevancy",
+      "url": "https://github.com/ericphann/recipe-relevancy-classifier",
+      "description": "Manually labelling Reddit comments from r/Cooking for training binary classification."
+    },
+    {
+      "title": "Search for Movie Plots",
+      "url": "https://github.com/ericphann/search-for-movie-plots",
+      "description": "Experiment comparing algorithms for searching for movie plots from Wikipedia."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Experience",
+  "icon": "bi bi-briefcase",
+  "list": [{
+      "position": "Business Support Manager",
+      "dates": "Feb 2025 - *Present*",
+      "company": "Bank of America",
+      "details": [
+        "Business Operations, Global Information Security (GIS)",
+        "Business Support, Asian Leadership Network - Charlotte",
+        "Volunteer & Business Support Lead, 1BAC Building Leaders"
+      ]
+    },
+    {
+      "position": "Technology Analyst Program (TAP)",
+      "dates": "Jul 2023 - Feb 2025",
+      "company": "Bank of America",
+      "details": [
+        "Business Operations, Global Information Security (GIS)"
+      ]
+    },
+    {
+      "position": "Applied Technology Program (ATP)",
+      "dates": "Feb 2022 - Jul 2023",
+      "company": "Bank of America",
+      "details": [
+        "Business Operations, Cybersecurity Technology (CST)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Education",
+  "icon": "bi bi-mortarboard",
+  "list": [
+    {
+      "degree": "M.S. in Data Science & Business Analytics",
+      "college": "University of North Carolina at Charlotte",
+      "dates": "2023 - 2025"
+    },
+    {
+      "degree": "Graduate Certificate in Applied Linguistics",
+      "college": "University of North Carolina at Charlotte",
+      "dates": "2023 - 2025"
+    },
+    {
+      "degree": "B.S. in Computer Science",
+      "college": "University of North Carolina at Charlotte",
+      "dates": "2019 - 2023"
+    },
+    {
+      "degree": "B.A. in Spanish",
+      "college": "University of North Carolina at Charlotte",
+      "dates": "2019 - 2023"
+    },
+    {
+      "degree": "Minor in Japanese",
+      "college": "University of North Carolina at Charlotte",
+      "dates": "2019 - 2023"
+    }
+  ]
+}
