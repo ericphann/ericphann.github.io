@@ -6,6 +6,10 @@ title: Eric Phann
 # Uncomment below to use aafu as hugo theme. See instructions in README.md
 theme: aafu
 
+caches:
+  images:
+    dir: :cacheDir/images
+
 params:
   author: Darshan Baral
   description: Eric Phann's website.
