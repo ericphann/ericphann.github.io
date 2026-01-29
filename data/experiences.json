@@ -1,9 +1,20 @@
 {
   "title": "Experience",
   "icon": "bi bi-briefcase",
-  "list": [{
+  "list": [
+    {
+      "position": "Senior AI Solutions Consultant",
+      "dates": "Jan 2026 - *Present*",
+      "company": "Wells Fargo",
+      "details": [
+        "Natural Language Processing (NLP) Analyst",
+        "Contact Center as a Service (CCaaS)",
+        "Chief Operating Office (COO) Team"
+      ]
+    },
+    {
       "position": "Business Support Manager",
-      "dates": "Feb 2025 - *Present*",
+      "dates": "Feb 2025 - Jan 2026",
       "company": "Bank of America",
       "details": [
         "Business Operations, Global Information Security (GIS)",
